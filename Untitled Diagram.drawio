@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2020-01-22T09:33:14.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="IQXC8LfL6pFRYf_vpn_7" version="12.5.5" type="github"><diagram id="3TBZge4pMhN0Fd1EMC4f" name="Page-1">3ZRNU4MwEEB/DcfOAEGpV7DaizNqD+oxkoVkDA0T0kL99W6bhI/pdKYevHhhkrebTXgbCEhe94+aNvxJMZBBHLI+IPdBHKfLGJ9HcLAgIakFlRbMomgEG/ENDoaO7gSDdpZolJJGNHNYqO0WCjNjVGvVzdNKJee7NrSCM7ApqDynb4IZbunyJhz5GkTF/c5R6CI19ckOtJwy1U0QWQUk10oZO6r7HOTRnfdi1z1ciA4H07A1Vy1Y7HOT6pdnlYXJ64dev+/lwlXZU7lzL+wOaw7eAFZB2TjJOi4MbBpaHCMdthsZN7XEWYRD2ja2A6XoATfNSiFlrqTSp0KkLOG2KJC3RqsvmERYeveJ3kjmTgPaQH/xNaNBHl46UDUYfcAUv8D7dhcu9g3pxvYlDvFJ5zyj7sJUQ+XRKQ6c1l8oTv6d4kHp3yvG6fiFnGKT3wxZ/QA=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-22T09:39:19.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="MYd6H46SUc_8TU3OMzkn" version="12.5.5" type="github">
+  <diagram id="3TBZge4pMhN0Fd1EMC4f" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="1-vCt7rQPoB04RYrHXvl-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#000000;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="320" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="W3g3m3StqlSqJHffgKDp-1" value="Master branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#000000;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="W3g3m3StqlSqJHffgKDp-2" value="Testing Airflow DAGs branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="W3g3m3StqlSqJHffgKDp-3" value="Developer branch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#000000;fontColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="W3g3m3StqlSqJHffgKDp-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#000000;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="W3g3m3StqlSqJHffgKDp-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=#000000;fontColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="40" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
